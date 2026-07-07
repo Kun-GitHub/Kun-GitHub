@@ -1,29 +1,49 @@
-# Hi, I'm Kong 👋
+# Hi there 👋 I'm Kong
 
-Full-Stack Developer focused on backend architecture, server infrastructure, and AI applications.
+**Full-Stack Developer · Backend Architect · AI Enthusiast**
 
-## About Me
+I enjoy building reliable software from mobile applications to distributed backend systems, with a strong focus on architecture, scalability, and practical engineering.
 
-I'm a full-stack developer with experience across backend, frontend, mobile, and cloud infrastructure. My primary focus is designing scalable backend systems, distributed architectures, and AI-powered applications.
+## 🚀 Focus
 
-### Areas of Expertise
+* 🏗️ Backend & Distributed System Architecture
+* ☁️ Server Infrastructure & Cloud Native
+* 🤖 AI Applications & LLM Engineering
+* 📱 Mobile Development (Android & iOS)
+* 🔍 Android Reverse Engineering
+* 🌐 IoT & Real-time Communication
 
-* **Backend Architecture** – Java, Go, Python, RESTful APIs, distributed systems, microservices
-* **Server Infrastructure** – Linux, Docker, Kubernetes, Nginx, DevOps, private deployments
-* **Artificial Intelligence** – LLMs, AI Agents, RAG, workflow automation, local AI deployment
-* **Mobile Development** – Android (Kotlin/Compose), iOS, cross-platform application integration
-* **Android Reverse Engineering** – APK analysis, protocol analysis, reverse engineering, security research
-* **IoT & Real-time Communication** – Device connectivity, WebRTC, streaming media, cloud platforms
+## 💻 Tech
 
-## Interests
+**Languages**
+
+Java · Go · Kotlin · Swift · JavaScript · TypeScript
+
+**Backend**
+
+Spring Boot · go-zero · RESTful API · gRPC · PostgreSQL · Redis
+
+**Infrastructure**
+
+Linux · Docker · Kubernetes · Nginx · Jenkins · Git
+
+**AI**
+
+LLM · RAG · AI Agents · MCP · LangGraph · Neo4j · Ollama
+
+**Mobile**
+
+Android (Jetpack Compose) · iOS
+
+## 🎯 Interests
 
 * Backend Engineering
 * System Architecture
 * AI Infrastructure
 * Cloud Native
-* Mobile Development
 * Reverse Engineering
-* Open Source Technologies
+* Open Source
 
-> Building reliable systems with clean architecture and practical engineering.
+---
 
+> *Build practical systems. Keep learning. Share what matters.*
