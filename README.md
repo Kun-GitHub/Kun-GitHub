@@ -17,7 +17,7 @@ I enjoy building reliable software from mobile applications to distributed backe
 
 **Languages**
 
-Java · Go · Kotlin · Swift · JavaScript · TypeScript
+Java · Go · Kotlin · Python · JavaScript · TypeScript · Swift
 
 **Backend**
 
