@@ -76,6 +76,7 @@ real footprint and throughput, and then decide whether to use it.
 | Project | What it is | Lang | Stars |
 |---|---|---|---|
 | **[RuoYi-Go](https://github.com/Kun-GitHub/RuoYi-Go)** | The RuoYi backend rewritten with DDD / hexagonal architecture (Iris + Gorm), paired with RuoYi-Vue3 | Go | ![stars](https://img.shields.io/github/stars/Kun-GitHub/RuoYi-Go?style=flat) |
+| **[SaaS-Zero](https://github.com/saas-zero/saas-zero)** | Multi-tenant Go microservice base: go-zero + ent + Casbin — gateway / auth / basedata out of the box | Go | ![stars](https://img.shields.io/github/stars/saas-zero/saas-zero?style=flat) |
 | **[mini-ruoyi](https://github.com/Kun-GitHub/mini-ruoyi)** | A low-footprint backend that actually runs on a 1-core / 1GB box — server cost stops being the big line item | Go | ![stars](https://img.shields.io/github/stars/Kun-GitHub/mini-ruoyi?style=flat) |
 
 **Which of the three Go backends to pick** (depends on your machine and project size):
@@ -118,7 +119,7 @@ needs inside them.
 
 - **Keep progress visible** — split the work, update daily, define acceptance criteria
 
-📫 [@Kun-GitHub](https://github.com/Kun-GitHub) · [github.com/saas-zero](https://github.com/saas-zero) · hot_kun@hotmail.com
+📫 [@Kun-GitHub](https://github.com/Kun-GitHub) · hot_kun@hotmail.com
 
 > *Get the real thing running first. Architecture can come after.*
 </details>
