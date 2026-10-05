@@ -53,7 +53,6 @@
 ## 📫 联系
 
 - GitHub：[@Kun-GitHub](https://github.com/Kun-GitHub)
-- SaaS-Zero 组织：[github.com/saas-zero](https://github.com/saas-zero)
 - Email：hot_kun@hotmail.com
 
 ---
